@@ -10,7 +10,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
-- Remote Desktop
+- Remote Desktop (or Windows App for Mac os)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
